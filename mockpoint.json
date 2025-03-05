@@ -20,16 +20,16 @@
     "proteobench_version":"0.5.4.dev381+g46ee938",
     "domaps_version":"1.1.1-dev0",
     "depth_id_total":[
-
+        1000
     ],
     "depth_profile_total":[
-
+        500
     ],
     "depth_id_intersection":[
-
+        400
     ],
     "depth_profile_intersection":[
-
+        20
     ],
     "median_profile_reproducibility":0.041217653,
     "mean_complex_scatter":0.0542921666,

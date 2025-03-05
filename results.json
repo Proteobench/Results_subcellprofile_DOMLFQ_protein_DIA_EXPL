@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "id":"MockPoint_20250305_102634",
+    "software_name":"MockPoint",
+    "software_version":"1.0",
+    "search_engine":"MockPoint",
+    "search_engine_version":"1.0",
+    "ident_fdr_psm":0.01,
+    "ident_fdr_peptide":0.05,
+    "ident_fdr_protein":0.1,
+    "enable_match_between_runs":1,
+    "precursor_mass_tolerance":"0.02 Da",
+    "fragment_mass_tolerance":"0.02 Da",
+    "enzyme":"Trypsin",
+    "allowed_miscleavages":1,
+    "min_peptide_length":6,
+    "max_peptide_length":30,
+    "is_temporary":true,
+    "intermediate_hash":"6274458c3e17a1d29476a54bc20842ff6f5fbd0c",
+    "comments":"",
+    "proteobench_version":"0.5.4.dev381+g46ee938",
+    "domaps_version":"1.1.1-dev0",
+    "depth_id_total":[
+
+    ],
+    "depth_profile_total":[
+
+    ],
+    "depth_id_intersection":[
+
+    ],
+    "depth_profile_intersection":[
+
+    ],
+    "median_profile_reproducibility":0.041217653,
+    "mean_complex_scatter":0.0542921666,
+    "old_new":"new"
+  }
+]

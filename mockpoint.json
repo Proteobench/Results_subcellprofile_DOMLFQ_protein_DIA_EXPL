@@ -14,7 +14,7 @@
     "allowed_miscleavages":1,
     "min_peptide_length":6,
     "max_peptide_length":30,
-    "is_temporary":true,
+    "is_temporary":false,
     "intermediate_hash":"6274458c3e17a1d29476a54bc20842ff6f5fbd0c",
     "comments":"",
     "proteobench_version":"0.5.4.dev381+g46ee938",

@@ -1,5 +1,4 @@
-[
-  {
+{
     "id":"MockPoint_20250305_102634",
     "software_name":"MockPoint",
     "software_version":"1.0",
@@ -36,4 +35,3 @@
     "mean_complex_scatter":0.0542921666,
     "old_new":"new"
   }
-]
